@@ -16,8 +16,8 @@ export const load = (() => {
 			},
 			{
 				title: "Cool code snippet",
-				language: "typescript",
-				code: `console.log("Subscribe");`,
+				language: "html",
+				code: `<div>This is another div</div>`,
 				favorite: false
 			}
         ]
